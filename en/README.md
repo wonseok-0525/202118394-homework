@@ -36,7 +36,15 @@ Automatically extract the avocado profile from a reference image using OpenCV, a
   - [`step3_3d_visualization.py`](week3/step3_3d_visualization.py): Input image → 3D reconstruction → 2D profile, 3-panel visualization
 - ➡️ **[View Detailed Lab Tutorial for This Week](week3/week03_lab_volume_surface_area.md)**
 
-### [Week 04] (To be updated in upcoming weeks)
+### [Week 04] Density, Porosity & Virtual 3D Packing
+Understand the concepts of **True Density, Bulk Density, and Porosity**—key physical properties of biomaterials. Quantitatively evaluate these properties through Python-based data augmentation and 3D space simulation.
+- **Sample Specimens**: Avocado (Hass) and Apple (using virtual geometry and weight data)
+- **Key Learning Scripts**:
+  - [`step1_density_porosity.py`](week4/step1_density_porosity.py): Cross-validate density/porosity calculation formulas (volume subtraction vs. density ratio methods) and implement 3D virtual packing (visualizing products and voids).
+  - [`step2_advanced_apple.py`](week4/step2_advanced_apple.py): An advanced assignment where students use the provided base structure and input apple specimen data (geometric dimensions and weight) to complete advanced calculations and the 3D virtual packing code themselves.
+- ➡️ **[View Detailed Lab Tutorial for This Week](week4/Week04_Lab_Density_Porosity.md)**
+
+### [Week 05] (To be updated in upcoming weeks)
 - (Next week update...)
 
 ---
@@ -105,7 +113,9 @@ Update the `README.md` file in the top-level folder each week to build your port
 - **Project Overview**: State your name / student ID / indicate this is the Biomaterial Handling assignment repository
 - **Weekly Update Log**: 
   - `[Week 02]` Completed apple contour recognition and circularity/sphericity calculation scripts
-  - `[Week 03]` (To be updated next week)
+  - `[Week 03]` Performed avocado volume/surface area estimation via numerical integration
+  - `[Week 04]` Calculated density/porosity and implemented 3D virtual packing
+  - `[Week 05]` (To be updated next week)
 
 ---
 *After completing your assignment, submit your GitHub repository URL (e.g., `https://github.com/your-username/biomaterial-handling/tree/main/en/week02`) to your TA/professor for final grading.*

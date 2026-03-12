@@ -17,6 +17,7 @@
 | Week 01 | 오리엔테이션 및 실습 기초 환경 구축 | — |
 | Week 02 | 원형도·구형도 분석 알고리즘 | [`ko/week2/`](ko/week2/) |
 | Week 03 | 체적·표면적 수치 적분 추정 | [`ko/week3/`](ko/week3/) |
+| Week 04 | 밀도·공극률 측정 및 가상 패킹 시뮬레이션 | [`ko/week4/`](ko/week4/) |
 
 > 📝 **[주차별 심화 토론 & 퀴즈 모음](ko/QUIZ_BANK.md)**
 
@@ -33,6 +34,7 @@ This repository is the official portfolio for the **Biomaterial Handling & Proce
 | Week 01 | Orientation & Environment Setup | — |
 | Week 02 | Circularity & Sphericity Analysis | [`en/week2/`](en/week2/) |
 | Week 03 | Volume & Surface Area Estimation | [`en/week3/`](en/week3/) |
+| Week 04 | Density, Porosity & Virtual 3D Packing | [`en/week4/`](en/week4/) |
 
 > 📝 **[Discussion Topics & Quiz Bank](en/QUIZ_BANK.md)**
 
