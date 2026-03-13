@@ -42,6 +42,7 @@ Understand the concepts of **True Density, Bulk Density, and Porosity**—key ph
 - **Key Learning Scripts**:
   - [`step1_density_porosity.py`](week4/step1_density_porosity.py): Cross-validate density/porosity calculation formulas (volume subtraction vs. density ratio methods) and implement 3D virtual packing (visualizing products and voids).
   - [`step2_advanced_apple.py`](week4/step2_advanced_apple.py): An advanced assignment where students use the provided base structure and input apple specimen data (geometric dimensions and weight) to complete advanced calculations and the 3D virtual packing code themselves.
+  - [`step3_random_packing.py`](week4/step3_random_packing.py): (**New**) A 3D simulation comparing Ordered array packing vs Random Monte-Carlo packing algorithms to empirically demonstrate the reduction in bulk density.
 - ➡️ **[View Detailed Lab Tutorial for This Week](week4/Week04_Lab_Density_Porosity.md)**
 
 ### [Week 05] (To be updated in upcoming weeks)

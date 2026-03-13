@@ -42,6 +42,7 @@
 - **주요 학습 스크립트**:
   - [`step1_density_porosity.py`](week4/step1_density_porosity.py): 밀도/공극률 산출 수식(체적 차감 방식 vs 밀도 비율 방식) 교차 검증 및 3D 가상 패킹(산물과 공극의 시각화) 구현.
   - [`step2_advanced_apple.py`](week4/step2_advanced_apple.py): 제공된 기본 구조를 활용해, 주어진 사과 표본 데이터(기하학적 제원 및 무게)를 입력하여 심화 연산과 3D 가상 패킹 코드를 스스로 완성해보는 Advanced 과제.
+  - [`step3_random_packing.py`](week4/step3_random_packing.py): (**신규**) 배열 적재(Ordered)와 무작위 적재(Random) 알고리즘 비교를 통해 산물 밀도 저하 원인을 확인하는 3D 시뮬레이션.
 - ➡️ **[해당 주차 상세 실습 튜토리얼 보기](week4/04주차_실습_밀도_공극률.md)**
 
 ### [Week 05] (이후 실습 내용 지속 업데이트 예정)
